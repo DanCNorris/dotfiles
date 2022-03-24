@@ -21,6 +21,7 @@ set ruler
 set incsearch                                                                                                                                                                                                                                                             
 set wildmenu                                                                                                                                                                                                                                                              
 set wildmode=list:longest                                                                                                                                                                                                                                                 
-set background=dark                                                                                                                                                                                                                                                       
+set background=dark
+set relativenumber
 filetype on                                                                                                                                                                                                                                                               
 highlight Comment ctermfg=green 
